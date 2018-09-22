@@ -1,0 +1,9 @@
+background-image: url(item/3078.png);
+width: 64px;
+height: 64px;
+margin: 0 auto;
+border: 3px outset beige;
+border-radius: 13px;
+background-position: center center;
+
+<div style="background-image: url(item/3078.png);width: 64px;height: 64px;margin: 0 auto;border: 3px outset yellow;border-radius: 10px;background-position: center center;"></div>
